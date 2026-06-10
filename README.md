@@ -2,6 +2,8 @@
 
 Signed, downloadable builds of DeltaVault's on-premises tools. The product source lives in a private repository; this repository exists so customers can fetch installers directly.
 
+> **Note:** the automatic "Source code (zip / tar.gz)" links GitHub attaches to each release contain only this repository - that is, this README. DeltaVault's product source is private and is not published here.
+
 ## What ships here
 
 | Tag pattern | Artifact | Platforms |
