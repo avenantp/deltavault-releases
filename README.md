@@ -8,8 +8,8 @@ Signed, downloadable builds of DeltaVault's on-premises tools. The product sourc
 
 | Tag pattern | Artifact | Platforms |
 | --- | --- | --- |
-| `agent-vX.Y.Z` | DeltaVault Local Agent (`dv-agent`) | Windows `.msi`, macOS `.pkg` (Apple Silicon + Intel), Linux `.deb` / `.rpm` |
-| `cli-vX.Y.Z` | Verify Connection CLI (`dv-verify`) | Windows `.exe` (self-contained, no runtime install) |
+| `agent-vX.Y.Z` | DeltaVault Local Agent (`deltavault-agent`) | Windows `.msi`, macOS `.pkg` (Apple Silicon + Intel), Linux `.deb` / `.rpm` |
+| `cli-vX.Y.Z` | DeltaVault Verify CLI (`deltavault-verify`) | Windows `.exe` (self-contained, no runtime install) |
 
 ## Verifying a download
 
